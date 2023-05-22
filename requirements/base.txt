@@ -35,4 +35,4 @@ ecdsa==0.13
 google-cloud
 django-tinymce==2.6.0
 python-magic==0.4.15
-django_ses==0.8.2
+django_ses==3.5.0
